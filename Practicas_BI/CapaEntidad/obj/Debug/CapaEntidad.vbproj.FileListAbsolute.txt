@@ -1,0 +1,8 @@
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\bin\Debug\CapaEntidad.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\obj\Debug\CapaEntidad.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaEntidad\obj\Debug\CapaEntidad.pdb

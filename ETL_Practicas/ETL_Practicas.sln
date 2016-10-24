@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "ETL_Practicas", "ETL_Practicas\ETL_Practicas.dtproj", "{B2DBF46E-DB68-42EE-8127-13C2F0FFA044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DBF46E-DB68-42EE-8127-13C2F0FFA044}.Development|Default.ActiveCfg = Development
+		{B2DBF46E-DB68-42EE-8127-13C2F0FFA044}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

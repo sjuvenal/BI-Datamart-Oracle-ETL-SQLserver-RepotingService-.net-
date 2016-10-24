@@ -1,0 +1,15 @@
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaNegocio.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaDatos.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\bin\Debug\CapaEntidad.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaNegocio\obj\Debug\CapaNegocio.pdb

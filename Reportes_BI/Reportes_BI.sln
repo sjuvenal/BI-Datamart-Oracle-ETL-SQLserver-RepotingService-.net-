@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Reportes_BI", "Reportes_BI\Reportes_BI.rptproj", "{E9C93241-2C34-4249-AB6F-B55FCDE65591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Debug|Default.ActiveCfg = Debug
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Debug|Default.Build.0 = DebugLocal
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Debug|Default.Deploy.0 = DebugLocal
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.DebugLocal|Default.Build.0 = DebugLocal
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Release|Default.ActiveCfg = Release
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Release|Default.Build.0 = Release
+		{E9C93241-2C34-4249-AB6F-B55FCDE65591}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

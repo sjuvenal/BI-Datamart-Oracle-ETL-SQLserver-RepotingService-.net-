@@ -1,0 +1,12 @@
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaDatos.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaDatos.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaEntidad.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaEntidad.pdb
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\bin\Debug\CapaEntidad.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.dll
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.xml
+F:\UCV\2016 - I\PRACTICAS\proyecto de practicas - BI\Proyecto - Aplicativo\PRACTICAS_BI\Practicas_BI\CapaDatos\obj\Debug\CapaDatos.pdb

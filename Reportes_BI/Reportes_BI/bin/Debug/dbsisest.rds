@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dbsisest">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=localhost;Initial Catalog=DataMartSisEst</ConnectString>
+    <Prompt>Specify a user name and password for data source dbsisest:</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>003e9027-0f93-4e0b-8805-72450dee2ccc</DataSourceID>
+</RptDataSource>
